@@ -1,3 +1,32 @@
-- ManageIQ
-- Releases
-- Features
+## What ** is ManageIQ?**
+
+ManageIQ is an opensource [cloud management platform](https://en.wikipedia.org/wiki/Cloud_management).
+Right from management of both public clouds and on-premise private clouds including virtual infrastructures, ManageIQ extends its capabilties in every manner.Hence, this makes it call _"Manager of Managers"_ and thus requires to connect the other management systems.
+
+
+### Architecture
+It is basically written in [Ruby](https://www.ruby-lang.org/en/about/)\( programming language\) and uses [Ruby on Rails](https://en.wikipedia.org/wiki/Ruby_on_Rails) famework.The ManageIQ software is shipped as prebuilt virtual appliance.It takes roughly 1GB space.The appliance is based on Centos operating system.
+
+### Releases
+
+Releases are named after chess grandmasters, where subsequent releases names start with consecutive letters of the alphabet.
+The following versions have been released so far:
+
+| Release-Name    | Release-Date      | Features                    |
+|-----------------|:-----------------:|:----------------------------------------------------------:|
+|    Anand        | 2 September 2014  | First Open Source Release of ManageIQ, Inc codebase |
+|   Botvinnik     | 12 June 2015      | Support for OpenStack undercloud, Foreman;improved AWS support; REST API supersedes SOAP API |
+| Capablanca      | 5 December 2015   | Support for Azure, Kubernetes, OpenShift; new self-service UI
+| Darga           | 7 June 2016       | Support for Google Cloud Platform, Ansible Tower; Software defined networking support for Neutron, public clouds|
+| Euwe            | 20 December 2016  | Support for new provider types Storage and Middleware; improved Container Management and Public Cloud Support |
+| Fine            | 17 May 2017       | Automation with Ansible, improved AWS support including storage, new Physical Infrastructure provider type |
+| Gaprindashvilli | 13 December 2017  | Chargeback; Core; i18n; Providers/Amazon; Providers/OpenStack; User Interface;
+
+### Providers
+
+ManageIQ manages each cloud, virtual infrastructure etc by using its components called *providers*. Each provider has the capability to connect to and monitor its target platform.
+Providers are classified in three broad categories into Cloud,Infrastructure,Configuration Management,Network and Containers
+
+#### Cloud Providers
+
+:

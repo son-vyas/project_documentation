@@ -31,20 +31,20 @@ Providers are classified in three broad categories into Cloud,Infrastructure,Con
 
 Cloud Providers facilitates with the management of three public clouds viz. Amazon EC2, Google Compute Engine, Microsoft Azure.There also exist on-premise(private) cloud provider Red Hat OpenStack Platform(OSP)cloud.
 
-### Infrastructure Providers
+#### Infrastructure Providers
 
 Infrastructure Providers facilitates with the management of traditional infrastructure products such as VMware vCenter Server, Red Hat Enterprise Virtualization Manager, and Microsoft System Center Virtual Machine Manager. 
 There is also an infrastructure provider that can manage on-premise(private) Red Hat OpenStack Platform Director UnderCloud.
 
-### Cloud Management Providers
+#### Cloud Management Providers
 
 Configuration management providers enable us to use the capabilities of Red Hat Satellite (or Foreman), and Ansible Tower for configuration management.
 
-### Network Providers
+#### Network Providers
 
 Network providers allow us to visualize and manage the software-defined network components in the  virtual or cloud infrastructure.
 
-### Container Providers
+#### Container Providers
 
 Container providers allow us to connect to and manage Docker container managers.
 

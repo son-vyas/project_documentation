@@ -53,5 +53,23 @@ Container providers allow us to connect to and manage Docker container managers.
 The Capabilities of ManageIQ include Insight, Control, Automate, service catalog, integration workflows.
 
 
+#### Insight
 
+Insight is the process of accumulating information of the virtual cloud or infrastructure.
+
+#### Control
+
+Control functionality can be used for the security and configuration policies using the information retrieval from insight.
+
+#### Automate
+
+Automate functionality allows to automate the orchestration of workflows and resources in virtual infrastructure.Automate allows us to create and use powerful workflows using the Ruby scripting language or Ansible jobs, and features provided by the Automation Engine such as state machines and service models.+
+
+#### Service Catalogs
+
+Self-service catalogs can be used to permit users to order the orchestration workflows with a single button click. Automate comes with an interactive service dialog designer that can be used to build rich dialogs, containing elements such as text boxes, radio buttons or drop-down lists. 
+
+#### Integrate
+
+As an extension of its Automate capability, ManageIQ is able to connect  and Integrate with many Enterprise tools and systems. ManageIQ come with Ruby Gems to enable automation scripts to connect to both RESTful and SOAP APIs, as well as libraries to connect to several SQL and LDAP databases, and the ability to run remote PowerShell scripts on Windows servers.
 

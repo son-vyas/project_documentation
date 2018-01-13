@@ -1,11 +1,11 @@
 ## What ** is ManageIQ?**
 
 ManageIQ is an opensource [cloud management platform](https://en.wikipedia.org/wiki/Cloud_management).
-Right from management of both public clouds and on-premise private clouds including virtual infrastructures, ManageIQ extends its capabilties in every manner.Hence, this makes it call _"Manager of Managers"_ and thus requires to connect the other management systems.
+Right from management of both public clouds and on-premise private clouds including virtual infrastructures,ManageIQ extends its capabilties in every manner. Hence,this makes it call _"Manager of Managers"_ and thus requires to connect the other management systems.
 
 
 ### Architecture
-It is basically written in [Ruby](https://www.ruby-lang.org/en/about/)\( programming language\) and uses [Ruby on Rails](https://en.wikipedia.org/wiki/Ruby_on_Rails) famework.The ManageIQ software is shipped as prebuilt virtual appliance.It takes roughly 1GB space.The appliance is based on Centos operating system.
+It is basically written in [Ruby](https://www.ruby-lang.org/en/about/)\( programming language\) and uses [Ruby on Rails](https://en.wikipedia.org/wiki/Ruby_on_Rails) framework. The ManageIQ software is shipped as prebuilt virtual appliance.It takes roughly 1GB space. The appliance is based on Centos operating system.
 
 ### Releases
 
@@ -25,11 +25,11 @@ The following versions have been released so far:
 ### Providers
 
 ManageIQ manages each cloud, virtual infrastructure etc by using its components called *providers*. Each provider has the capability to connect to and monitor its target platform.
-Providers are classified in three broad categories into Cloud,Infrastructure,Configuration Management,Network and Containers
+Providers are classified in three broad categories into Cloud, Infrastructure, Configuration Management, Network and Containers
 
 #### Cloud Providers
 
-Cloud Providers facilitates with the management of three public clouds viz. Amazon EC2, Google Compute Engine, Microsoft Azure.There also exist on-premise(private) cloud provider Red Hat OpenStack Platform(OSP)cloud.
+Cloud Providers facilitates with the management of three public clouds viz. Amazon EC2, Google Compute Engine, Microsoft Azure. There also exist on-premise(private) cloud provider Red Hat OpenStack Platform(OSP)cloud.
 
 #### Infrastructure Providers
 
@@ -52,7 +52,6 @@ Container providers allow us to connect to and manage Docker container managers.
 
 The Capabilities of ManageIQ include Insight, Control, Automate, service catalog, integration workflows.
 
-
 #### Insight
 
 Insight is the process of accumulating information of the virtual cloud or infrastructure.
@@ -63,7 +62,7 @@ Control functionality can be used for the security and configuration policies us
 
 #### Automate
 
-Automate functionality allows to automate the orchestration of workflows and resources in virtual infrastructure.Automate allows us to create and use powerful workflows using the Ruby scripting language or Ansible jobs, and features provided by the Automation Engine such as state machines and service models.+
+Automate functionality allows to automate the orchestration of workflows and resources in virtual infrastructure. Automate allows us to create and use powerful workflows using the Ruby scripting language or Ansible jobs, and features provided by the Automation Engine such as state machines and service models.+
 
 #### Service Catalogs
 
@@ -71,5 +70,5 @@ Self-service catalogs can be used to permit users to order the orchestration wor
 
 #### Integrate
 
-As an extension of its Automate capability, ManageIQ is able to connect  and Integrate with many Enterprise tools and systems. ManageIQ come with Ruby Gems to enable automation scripts to connect to both RESTful and SOAP APIs, as well as libraries to connect to several SQL and LDAP databases, and the ability to run remote PowerShell scripts on Windows servers.
+As an extension of its Automate capability, ManageIQ is able to connect and Integrate with many Enterprise tools and systems. ManageIQ come with Ruby Gems to enable automation scripts to connect to both RESTful and SOAP APIs, as well as libraries to connect to several SQL and LDAP databases, and the ability to run remote PowerShell scripts on Windows servers.
 

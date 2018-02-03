@@ -43,7 +43,8 @@ The Capabilities of ManageIQ include Insight, Control, Automate, service catalog
 
 #### Insight
 
-Insight is the process of accumulating information of the virtual cloud or infrastructure.
+Insights analyzes IT infrastructure to provide real-time assessment for risks related to performance, availability, stability, and security. After thorough
+analysis of logs, installed packages, configurations any critical issues requiring attention are clearly displayed. 
 
 #### Control
 

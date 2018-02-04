@@ -1,7 +1,7 @@
 ## What is ManageIQ?
 
-ManageIQ is an opensource [cloud management platform](https://en.wikipedia.org/wiki/Cloud_management).
-As far as hybrid cloud management is concerned including both public cloud viz. Google Compute Engine, Amazon EC2, Microsoft azure and private cloud viz. Red Hat OpenStack Platform(OSP) etc., ManageIQ extends its capabilties in every manner. Hence,this makes it call _"Manager of Managers"_ and thus requires to connect the other management systems.
+ManageIQ is an opensource hybrid [cloud management platform](https://en.wikipedia.org/wiki/Cloud_management).
+As far as hybrid cloud management is concerned, particularly public cloud viz. Google Compute Engine, Amazon EC2, Microsoft azure and private cloud viz. Red Hat OpenStack Platform(OSP) as well as infrastructure providers like RHEV,VMware etc. , ManageIQ extends its capabilties in every manner. Hence,this makes it call _"Manager of Managers"_ and thus requires to connect the other management systems.
 
 ### Architecture
 It is basically written in [Ruby](https://www.ruby-lang.org/en/about/)\( programming language\) and uses [Ruby on Rails](https://en.wikipedia.org/wiki/Ruby_on_Rails) framework. The ManageIQ software is shipped as prebuilt virtual appliance.It takes roughly 1GB space. The appliance is based on Centos operating system.

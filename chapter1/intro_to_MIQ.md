@@ -1,9 +1,9 @@
 ## What is ManageIQ?
 
-ManageIQ is an opensource [cloud management platform](https://en.wikipedia.org/wiki/Cloud_management).
-Right from management of both public cloud e.g. Google Compute Engine, Amazon EC2, Microsoft azure and on-premise private cloud e.g Red Hat OpenStack Platform(OSP), Red Hat Enterprise Virtualization Manager(RHEV) etc., ManageIQ extends its capabilties in every manner. Hence,this makes it call _"Manager of Managers"_ and thus requires to connect the other management systems.
+ManageIQ is an opensource hybrid [cloud management platform](https://en.wikipedia.org/wiki/Cloud_management).Right from management of both public cloud e.g. Google Compute Engine, Amazon EC2, Microsoft azure and on-premise private cloud e.g Red Hat OpenStack Platform(OSP), Red Hat Enterprise Virtualization Manager(RHEV) etc., ManageIQ extends its capabilties in every manner. Hence,this makes it call _"Manager of Managers"_ and thus requires to connect the other management systems.
 
 ### Architecture
+
 It is basically written in [Ruby](https://www.ruby-lang.org/en/about/)\( programming language\) and uses [Ruby on Rails](https://en.wikipedia.org/wiki/Ruby_on_Rails) framework. The ManageIQ software is shipped as prebuilt virtual appliance.It takes roughly 1GB space. The appliance is based on Centos operating system.
 
 ### Releases
@@ -54,6 +54,7 @@ Control functionality can be used for the security and configuration policies us
 Automate functionality allows to automate the orchestration of workflows and resources in virtual infrastructure. Automate allows us to create and use powerful workflows using the Ruby scripting language or Ansible jobs, and features provided by the Automation Engine such as state machines and service models.+
 
 #### Service Catalogs
+
 
 Self-service catalogs can be used to permit users to order the orchestration workflows with a single button click. Automate comes with an interactive service dialog designer that can be used to build rich dialogs, containing elements such as text boxes, radio buttons or drop-down lists.
 

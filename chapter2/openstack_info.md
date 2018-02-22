@@ -59,22 +59,4 @@ Horizon is the Dashboard to Openstack, your eyes and ears. It provides a web bas
 
 # OpenStack Releases
 
-
-| Release Date  | Release Name  |                             Components used|
-|: -------------:|:-------------:|:------------------------------------------:|
-|21 October 2010| Austin        |               Nova, Swift                  |
-|3 February 2011| Bexar	        |            Nova, Glance, Swift             |
-|15 April 2011  | Cactus        |            Nova, Glance, Swift             |
-|22 September 2011| Diablo      |	                        Nova, Glance, Swift|
-|5 April 2012   | Essex	        |	     Nova, Glance, Swift, Horizon, Keystone|
-|27 September 2012|	Folsom      | Nova, Glance, Swift, Horizon, Keystone, Quantum, Cinder |
-|4 April 2013   |Grizzly		    | Nova, Glance, Swift, Horizon, Keystone, Quantum, Cinder |
-|17 October 2013|Havana	        |	Nova, Glance, Swift, Horizon, Keystone, Neutron, Cinder, Heat, Ceilometer|
-|17 April 2014  | Icehouse		  | Nova, Glance, Swift, Horizon, Keystone, Neutron, Cinder, Heat, Ceilometer, Trove|
-|16 October 2014 | Juno		      | Nova, Glance, Swift, Horizon, Keystone, Neutron, Cinder, Heat, Ceilometer, Trove, Sahara|
-|30 April 2015   | Kilo	        |	Nova, Glance, Swift, Horizon, Keystone, Neutron, Cinder, Heat, Ceilometer, Trove, Sahara, Ironic|
-|16 October 2015 | Liberty	    |	Nova, Glance, Swift, Horizon, Keystone, Neutron, Cinder, Heat, Ceilometer, Trove, Sahara, Ironic, Zaqar, Manila, Designate, Barbican, Searchlight |
-|7 April 2016   |  Mitaka		    |Nova, Glance, Swift, Horizon, Keystone, Neutron, Cinder, Heat, Ceilometer, Trove, Sahara, Ironic, Zaqar, Manila, Designate, Barbican, Searchlight, Magnum|
-|6 October 2016 | Newton		    | Nova, Glance, Swift, Horizon, Keystone, Neutron, Cinder, Heat, Ceilometer, Trove, Sahara, Ironic, Zaqar, Manila, Designate, Barbican, Searchlight, Magnum, aodh, cloudkitty, congress, freezer, mistral, monasca-api, monasca-log-api, murano, panko, senlin, solum, tacker, vitrage, Watcher |
-|22 February 2017| Ocata	    	| Nova, Glance, Swift, Horizon, Keystone, Neutron, Cinder, Heat, Ceilometer, Trove, Sahara, Ironic, Zaqar, Manila, Designate, Barbican, Searchlight, Magnum, aodh, cloudkitty, congress, freezer, mistral, monasca-api, monasca-log-api, murano, panko, senlin, solum, tacker, vitrage, Watcher|
-|30 August 2017 |Pike	          |	Nova, Glance, Swift, Horizon, Keystone, Neutron, Cinder, Heat, Ceilometer, Trove, Sahara, Ironic, Zaqar, Manila, Designate, Barbican, Searchlight, Magnum, aodh, cloudkitty, congress, freezer, mistral, monasca-api, monasca-log-api, murano, panko, senlin, solum, tacker, vitrage, Watcher |
+Please do checkout the releases at [openstack.org](https://releases.openstack.org/)

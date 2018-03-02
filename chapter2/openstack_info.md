@@ -1,6 +1,6 @@
 # What is OpenStack?
 
-OpenStack is an [free and opensource](https://en.wikipedia.org/wiki/Free_and_open-source_software) cloud operating system, mostly deployed as Infrastructure-As-Service(IaaS) which controls large pools of compute, storage, and networking resources throughout a data center.
+OpenStack is an [free and open-source](https://en.wikipedia.org/wiki/Free_and_open-source_software) cloud operating system, mostly deployed as Infrastructure-As-Service(IaaS) which controls large pools of compute, storage, and networking resources throughout a data center.
 Here [Infrastructure-As-Service](https://en.wikipedia.org/wiki/Infrastructure_as_a_service) means that OpenStack serves the user with quickly adding new instance upon which the other cloud components can run.
 
 ##  Components of OpenStack
@@ -39,15 +39,15 @@ Swift offers cloud storage software, as they are not attached to servers, they a
 
 ### Cinder (Block Storage)
 
-Cinder is also one of the storage modules of Openstack; It has the performance characteristics of a Hard drive but much slower then Swift and has low latency. Block Volume are created in swift and attached to running Volumes for which you want to attach an extra partition or for copying data to it. It survives the termination of an Instance. It is used to keep persistence storage. Cinder Images are mostly stored on our shared storage environment for readily availability. These Images can be clones and snapshot which can be turned in to bootable images. Its similar to Amazon Elastic block Storage.
+Cinder is also one of the storage modules of OpenStack; It has the performance characteristics of a Hard drive but much slower then Swift and has low latency. Block Volume are created in swift and attached to running Volumes for which you want to attach an extra partition or for copying data to it. It survives the termination of an Instance. It is used to keep persistence storage. Cinder Images are mostly stored on our shared storage environment for readily availability. These Images can be clones and snapshot which can be turned in to bootable images. Its similar to Amazon Elastic block Storage.
 
 ### Neutron (Networking)
 
-Neutron, the networking component which was formally called Quantum. This component provides the software defined Networking Stack for Openstack. It Provides networking as a service. It gives the cloud tenants an API to build rich networking topologies, and configure advanced network policies in the cloud. It enables innovation plugins (open and closed source) that introduce advanced network capabilities which let anyone build advanced network services (open and closed source) that plug into Openstack tenant networks means that you can create advance managed switches and routers. You can even create an intelligent switch from a PC (Yes you can use it as a standalone component) and use it to replace your managed switch or atleast make it act as a backup Switch.
+Neutron, the networking component which was formally called Quantum. This component provides the software defined Networking Stack for OpenStack. It Provides networking as a service. It gives the cloud tenants an API to build rich networking topologies, and configure advanced network policies in the cloud. It enables innovation plugins (open and closed source) that introduce advanced network capabilities which let anyone build advanced network services (open and closed source) that plug into OpenStack tenant networks means that you can create advance managed switches and routers. You can even create an intelligent switch from a PC (Yes you can use it as a standalone component) and use it to replace your managed switch or atleast make it act as a backup Switch.
 
 ### Heat (Orchestration)
 
-It creates a human and machine-accessible service for managing the entire lifecycle of infrastructure and applications within Openstack clouds. It contains human readable templates with simple instruction that is read by the Heat Engine. Heat along with ceilometer (explained below) can create an auto-scaling the cloud.
+It creates a human and machine-accessible service for managing the entire lifecycle of infrastructure and applications within OpenStack clouds. It contains human readable templates with simple instruction that is read by the Heat Engine. Heat along with ceilometer (explained below) can create an auto-scaling the cloud.
 
 ### Telemetry (Ceilometer)
 
@@ -55,8 +55,8 @@ This module is responsible for metering Information. It can be used generate bil
 
 ### Horizon (Dashboard )
 
-Horizon is the Dashboard to Openstack, your eyes and ears. It provides a web based user interface to OpenStack services including Nova, Swift, Keystone etc
+Horizon is the Dashboard to OpenStack, your eyes and ears. It provides a web based user interface to OpenStack services including Nova, Swift, Keystone etc
 
 # OpenStack Releases
 
-Please do checkout the releases at [openstack.org](https://releases.openstack.org/)
+Please do checkout the releases at [OpenStack.org](https://releases.OpenStack.org/)

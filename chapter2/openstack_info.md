@@ -1,7 +1,6 @@
 # What is OpenStack?
 
-OpenStack is an [free and open-source](https://en.wikipedia.org/wiki/Free_and_open-source_software) cloud operating system, mostly deployed as Infrastructure-As-Service(IaaS) which controls large pools of compute, storage, and networking resources throughout a data center.
-Here [Infrastructure-As-Service](https://en.wikipedia.org/wiki/Infrastructure_as_a_service) means that OpenStack serves the user with quickly adding new instance upon which the other cloud components can run.
+OpenStack is an [free and open-source](https://en.wikipedia.org/wiki/Free_and_open-source_software) cloud operating system, mostly deployed as Infrastructure-As-Provider in case of ManageIQ, which controls large pools of compute, storage, and networking resources throughout a data center.
 
 ##  Components of OpenStack
 
@@ -18,7 +17,8 @@ OpenStack has a modular architecture with various code names for its components:
 
 ### Keystone (Identity Service)
 
- It’s the main authentication and authorization service as I heard from someone, it’s the a who are you and what do you want service. It authorizes
+ It’s the main authentication and authorization service. It authorizes the following:-
+
 1. Users
 2. Services
 3. Endpoints
@@ -31,7 +31,7 @@ Nova compute provides a platform on which we are going to run our guest machines
 
 ### Glance (Image Service)
 
-In simple words glance is the Image Registry, it stores and Manage our guest (VM) images, Disk Images, snap shots etc. Instances are booted from the glance image registry.  A feature of Glance is to store images remotely so to save local disk space.
+In simple words glance is the Image Registry, it stores and Manage our guest (VM) images, Disk Images, snap shots etc. Instances are booted from the glance image registry. A feature of Glance is to store images remotely so to save local disk space.
 
 ### Swift (Object Storage)
 
@@ -55,7 +55,7 @@ This module is responsible for metering Information. It can be used generate bil
 
 ### Horizon (Dashboard )
 
-Horizon is the Dashboard to OpenStack, your eyes and ears. It provides a web based user interface to OpenStack services including Nova, Swift, Keystone etc
+Horizon is the Dashboard to OpenStack. It provides a web based user interface to OpenStack services including Nova, Swift, Keystone etc
 
 # OpenStack Releases
 

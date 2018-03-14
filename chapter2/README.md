@@ -14,4 +14,14 @@ This part will talk about the installation of [packstack](https://wiki.openstack
 
 When done with the packstack installation now it's time to integrate it with ManageIQ.This part will help with it.
 
-### 3. 
+### 3. Introduction to OpenStack
+
+This part will give brief introduction to OpenStack.
+
+### 4. OpenStack configuration
+
+OpenStack do require some basic configurations depending upon the requirements. The configurations discussed are subject to this project and may vary as long with the changing requirements.
+
+### 5. Launch a Instance
+
+This part will give the guidelines to launch the instance and troubleshoot the errors coming along the way.

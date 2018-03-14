@@ -20,7 +20,7 @@ This part will give brief introduction to OpenStack.
 
 ### 4. OpenStack configuration
 
-OpenStack do require some basic configurations depending upon the requirements. The configurations discussed are subject to this project and may vary as long with the changing requirements.
+OpenStack do require some basic configurations depending upon the requirements. The configurations discussed are subject to this project and may vary with the changing requirements.
 
 ### 5. Launch a Instance
 

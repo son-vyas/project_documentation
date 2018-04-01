@@ -6,7 +6,7 @@ Ansible is an opensource tool which serves for configuration management, orchest
 
 ### ManageIQ and Ansible
 
-Before ease of Ansible reached out to us, one was expected to be quite comfortable with Ruby scripting language and [Automate object model](https://pemcg.gitbooks.io/mastering-automation-in-cloudforms-4-2-and-manage/content/introduction_to_the_automate_datastore/chapter.html) to develop his own automation scripts. But, Now ManageIQ do provide varios provisioning and service management processes. Thus, after Fine release, we can use Ansible playbooks for automation.
+Before ease of Ansible reached out to us, one was expected to be quite comfortable with Ruby scripting language and [Automate object model](https://pemcg.gitbooks.io/mastering-automation-in-cloudforms-4-2-and-manage/content/introduction_to_the_automate_datastore/chapter.html) to develop his own automation scripts. But, Now ManageIQ do provide various provisioning and service management processes. Thus, after Fine release, we can use Ansible playbooks for automation.
 
 ### Ansible Terms
 

@@ -33,7 +33,7 @@ A job is an instance of Ansible Tower launching a playbook against an inventory 
 A job template is a definition and set of parameters for running an Ansible Tower job.
 Job templates allow us to execute the same job many times, by pre-defining such items as the playbook to run, extra variables to pass, inventory to be managed, and credentials that should be used.
 
-#### Ruby and Ansible
+### Ruby and Ansible
 
 Ansible is the quite simple and can  read its YAML-formatted playbooks.
 Automation can be done by both from Ansible playbooks from Automate and developing own Ruby automation scripts.

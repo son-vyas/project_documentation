@@ -1,11 +1,12 @@
 ### Introduction to ManageIQ services
- Services are one of the most interesting feature within ManageIQ.Services can include one or more virtual machines, instances etc. that can be deployed across hybrid environments.
+
+ Services are one of the most interesting feature within ManageIQ. Services can include one or more virtual machines, instances etc. that can be deployed across hybrid environments.
+
 ### User self-service portal
 
 User can use the services by self-service portal.
-It can be accessed by https://<your_manageiq_appliance>self_service/
-    - How to access portal
-    - Portal details, screenshots
+It can be accessed by https://your_manageiq_appliance/self_service/
+
 ### Service Basics
 
 #### Provision Dialogs

@@ -21,7 +21,9 @@ Service Dialog is the skeleton of a form.To create service dialog, ManageIQ incl
 #### Service Catalogs
 
 A Service Catalog which is used to group Services Dialogs together.
+Following is the image of service catalog in our case.
 
+![Service Catalog](../images/chapter4/service_catalog.png "Service catalog")
 #### Service Catalog items
 
 A Service Catalog Item (ie. the actual Service) which joins a Service Dialog with a Provisioning Dialog.

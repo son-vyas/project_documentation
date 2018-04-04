@@ -1,6 +1,6 @@
 ### Introduction to ManageIQ services
 
- Services are one of the most interesting feature within ManageIQ. Services can include one or more virtual machines, instances etc. that can be deployed across hybrid environments.
+ Services are one of the most interesting feature within ManageIQ. Services can include one or more virtual machines, instances, etc. that can be deployed across hybrid environments.
 
 ### User self-service portal
 

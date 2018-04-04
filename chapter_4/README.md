@@ -14,4 +14,4 @@ This part will talk about domains ,their priorities. It will also walk you throu
 
 #### Creating a ansible service
 
-This part will talk about how Ansible playbook comes into the picture and thereby service is launced.The use-case discussed is subject to this project.
+This part will talk about how Ansible playbook comes into the picture and thereby how service is launced.The use-case discussed is subject to this project.

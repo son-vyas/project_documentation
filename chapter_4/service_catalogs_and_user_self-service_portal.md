@@ -7,6 +7,7 @@
 User can use the services by self-service portal.
 It can be accessed by https://your_manageiq_appliance/self_service/
 
+![self-service portal](../images/chapter4/portal.png "Self-service portal")
 ### Service Basics
 
 #### Provision Dialogs

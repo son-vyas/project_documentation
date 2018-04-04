@@ -4,4 +4,6 @@ This chapter will talk all about ManageIQ services. It will help you understand 
 
 Let's quickly go through the stuffs discussed within this chapter
 
-one para: About chapter4 and sections under this chapter
+#### Service catalogs and user self-service portal
+
+This part will talk about service basics,use of self-service portal.

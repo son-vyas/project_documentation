@@ -2,7 +2,7 @@
 
 ManageIQ is an Open source hybrid IT management platform to manage
 Public & Private cloud providers, IT automation like Ansible Tower,
-and container environments link Kubernetes & OpenShift.
+and container environments like Kubernetes & OpenShift.
 
 ### Architecture
 

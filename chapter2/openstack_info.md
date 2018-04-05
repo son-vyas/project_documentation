@@ -5,3 +5,7 @@ Hundreds of times you may have listened that ManageIQ is manager of managers. An
 ### How ManageIQ controls the integrated environment?
 
 ManageIQ collects inventory information like request VMs, networking images from the OpenStack provider. ManageIQ uses REST API to communicate with OpenStack and further OpenStack uses REST API to communicate with its components.
+
+### Genuine warning
+
+Please do prior check the provider version and make sure it is compatible with your environment. Otherwise, things will mess and take a lot of time to come up on right track.

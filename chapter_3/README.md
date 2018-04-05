@@ -1,6 +1,6 @@
 # Walk to the chapter
 
-With the step by step installation right from starting with installation of ManageIQ , integrating with infrastructure provider, OpenStack using Packstack , now its time to get hands dirty with automation flavour of ManageIQ. This means that this chapter will talk about Ansible embedded within ManageIQ which is known as Embedded Ansible.
+With the step by step installation right from starting with installation of ManageIQ , integrating with infrastructure provider(OpenStack using Packstack) , Now let's get our hands dirty with automation flavour of ManageIQ. This means that this chapter will talk about Ansible embedded within ManageIQ which is known as Embedded Ansible.
 
 Let's quickly go through the stuffs discussed within the chapter.
 

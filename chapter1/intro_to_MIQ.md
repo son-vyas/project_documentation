@@ -33,7 +33,7 @@ on-premise(private) OpenStack Platform Director.
 #### Cloud Management Providers
 
 Configuration management providers enable us to use the capabilities
-of Foreman, and Ansible Tower for configuration management.
+of Foreman and Ansible Tower for configuration management.
 
 #### Network Providers
 
